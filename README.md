@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
+| **Team Name** | Team Arjuna
 | **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Lead** | Param Shah — 24cs093@charusat.edu.in |
+| **Members** | Jay Ladva, Nishant Virani, Smit Bhesaniya |
 
 ---
 
